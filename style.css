@@ -43,7 +43,7 @@ ul{
     margin-top: 3rem;
     margin-bottom: 2rem;
 }
-h1{
+h1, .h2-sobre{
     font-size: 3rem;
     letter-spacing: .1rem;
     font-weight: 300;
@@ -88,6 +88,17 @@ h1{
 }
 .foto-sobre{
     width: 50%;
+}
+.h2-sobre{
+	margin-top: 2.5rem ;
+}
+.list-certificados{
+	display: flex;
+	flex-direction: column;
+	gap: .5rem;
+	font-size: 1.1rem;
+	padding-left:.5rem ;
+	padding-top:.5rem ;
 }
 .title-cuidados{
     max-width: 15ch;
