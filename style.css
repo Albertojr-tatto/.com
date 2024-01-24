@@ -9,7 +9,7 @@ html{
     min-height: 100vh;
     font-family: 'Roboto', sans-serif;
     background: #1c2128;
-    scroll-behavior: smooth
+    scroll-behavior: smooth;
 }
 body{
     height: 100%;
