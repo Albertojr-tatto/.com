@@ -10,6 +10,9 @@ html{
     font-family: 'Roboto', sans-serif;
     background: #1c2128;
     scroll-behavior: smooth;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 body{
     height: 100%;
